@@ -24,3 +24,5 @@ Utilizing Power BI, we aimed to analyze financial, sales, marketing, and supply 
 - Marketing View: Evaluated marketing spend, Gross Margin, and Net Profit performance.
 - Supply Chain View: Monitored forecast accuracy, Net Error, and manage inventory risks.
 - Executive View: Gain strategic insights into Market Share trends and revenue trends.
+
+  🔗 Engage with the live Dashboard here: (https://app.powerbi.com/view?r=eyJrIjoiNTM1YWNkOTgtOGEyOC00ZGQ0LTg0MTItOTU0YzBiM2I5MGFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
